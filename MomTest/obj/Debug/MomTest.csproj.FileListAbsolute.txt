@@ -12,3 +12,5 @@ F:\workspace\activeMQApi\MomApi\MomTest\bin\Debug\Apache.NMS.ActiveMQ.xml
 F:\workspace\activeMQApi\MomApi\MomTest\bin\Debug\MomApi.pdb
 F:\workspace\activeMQApi\MomApi\MomTest\obj\Debug\MomTest.exe
 F:\workspace\activeMQApi\MomApi\MomTest\obj\Debug\MomTest.pdb
+D:\Work\GitHub\ActiveMQ\MomTest\obj\Debug\MomTest.exe
+D:\Work\GitHub\ActiveMQ\MomTest\obj\Debug\MomTest.pdb
