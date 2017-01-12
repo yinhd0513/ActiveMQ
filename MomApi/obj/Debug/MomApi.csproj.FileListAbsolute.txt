@@ -1,0 +1,12 @@
+F:\workspace\activeMQApi\MomApi\MomApi\bin\Debug\MomApi.pdb
+F:\workspace\activeMQApi\MomApi\MomApi\bin\Debug\Apache.NMS.ActiveMQ.dll
+F:\workspace\activeMQApi\MomApi\MomApi\bin\Debug\Apache.NMS.dll
+F:\workspace\activeMQApi\MomApi\MomApi\bin\Debug\Ionic.Zlib.dll
+F:\workspace\activeMQApi\MomApi\MomApi\bin\Debug\nunit.framework.dll
+F:\workspace\activeMQApi\MomApi\MomApi\bin\Debug\Apache.NMS.pdb
+F:\workspace\activeMQApi\MomApi\MomApi\bin\Debug\Apache.NMS.ActiveMQ.pdb
+F:\workspace\activeMQApi\MomApi\MomApi\bin\Debug\Apache.NMS.ActiveMQ.xml
+F:\workspace\activeMQApi\MomApi\MomApi\obj\Debug\MomApi.csprojResolveAssemblyReference.cache
+F:\workspace\activeMQApi\MomApi\MomApi\obj\Debug\MomApi.pdb
+F:\workspace\activeMQApi\MomApi\MomApi\bin\Debug\MomApi.dll
+F:\workspace\activeMQApi\MomApi\MomApi\obj\Debug\MomApi.dll

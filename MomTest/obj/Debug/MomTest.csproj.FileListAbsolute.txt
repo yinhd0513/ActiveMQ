@@ -1,0 +1,14 @@
+F:\workspace\activeMQApi\MomApi\MomTest\obj\Debug\MomTest.csprojResolveAssemblyReference.cache
+F:\workspace\activeMQApi\MomApi\MomTest\bin\Debug\MomTest.exe
+F:\workspace\activeMQApi\MomApi\MomTest\bin\Debug\MomTest.pdb
+F:\workspace\activeMQApi\MomApi\MomTest\bin\Debug\Apache.NMS.ActiveMQ.dll
+F:\workspace\activeMQApi\MomApi\MomTest\bin\Debug\Apache.NMS.dll
+F:\workspace\activeMQApi\MomApi\MomTest\bin\Debug\Ionic.Zlib.dll
+F:\workspace\activeMQApi\MomApi\MomTest\bin\Debug\MomApi.dll
+F:\workspace\activeMQApi\MomApi\MomTest\bin\Debug\nunit.framework.dll
+F:\workspace\activeMQApi\MomApi\MomTest\bin\Debug\Apache.NMS.pdb
+F:\workspace\activeMQApi\MomApi\MomTest\bin\Debug\Apache.NMS.ActiveMQ.pdb
+F:\workspace\activeMQApi\MomApi\MomTest\bin\Debug\Apache.NMS.ActiveMQ.xml
+F:\workspace\activeMQApi\MomApi\MomTest\bin\Debug\MomApi.pdb
+F:\workspace\activeMQApi\MomApi\MomTest\obj\Debug\MomTest.exe
+F:\workspace\activeMQApi\MomApi\MomTest\obj\Debug\MomTest.pdb
